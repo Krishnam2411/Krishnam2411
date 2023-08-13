@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, 👋 I'm Krishnam Mahehswari</h1>
+# <h1 align="center">Hi, 👋 I'm Krishnam Maheshwari</h1>
 ## 💫 About Me:
 📖 I'm a Computer Science & Engineering Undergraduate student at NIT, Silchar.<br>🔭 I’m currently working on a Quiz game using Flask.<br>👯 I’m looking to collaborate on any web project.<br>🌱 I’m currently learning MERN stack.
 
