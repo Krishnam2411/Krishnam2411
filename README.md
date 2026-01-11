@@ -1,6 +1,4 @@
 # <h1 align="center">Hi, 👋 I'm Krishnam Maheshwari</h1>
-## 💫 About Me:
-📖 I'm a Computer Science & Engineering Undergraduate student at NIT, Silchar.<br>🔭 I’m currently working on a Quiz game using Flask.<br>👯 I’m looking to collaborate on any web project.<br>🌱 I’m currently learning MERN stack.
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krishnam_2411/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishnam-maheshwari-b9b971257/) 
