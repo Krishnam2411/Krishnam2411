@@ -1,9 +1,38 @@
-# <h1 align="center">Hi, 👋 I'm Krishnam Maheshwari</h1>
+# Krishnam Maheshwari
 
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/krishnam_2411/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishnam-maheshwari-b9b971257/) 
+Final-year Computer Science Engineering student at NIT Silchar | Former SWE Intern at Microsoft India
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)<br> ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### About Me
+Interested in scalable backend systems, exploring machine learning, and developing cross-platform applications.
+<br/>
+I enjoy working across the stack to solve complex engineering problems.
 
----
+### GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Krishnam2411&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishnam2411&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+### Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,go,py,js,ts,html,css,tailwind,react,vite,next,svelte,nodejs,express,flask,fastapi,mongo,firebase,supabase,nginx,azure,godot,vscode,bun,git,github,docker,vercel,apple" alt="Tech Stack Icons" />
+  </a>
+</p>
+
+### Featured Projects
+
+* **[Cpplify](https://github.com/Krishnam2411/Cpplify)**: Interactive C++ learning platform and developer ecosystem.
+* **[OSA Detection]()**: Machine learning research detecting Obstructive Sleep Apnea using ECG signals (SHHS dataset).
+* **[Wallspire]()**: Cross-platform mobile application built with React Native and Expo.
+
+### Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/krishnam-maheshwari-b9b971257" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/krishnam_2411/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
